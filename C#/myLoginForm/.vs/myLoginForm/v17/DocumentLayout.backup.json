@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Visual Programming\\myLoginForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|D:\\C#\\Visual Programming\\myLoginForm\\myloginform\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|solutionrelative:myloginform\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|D:\\C#\\Visual Programming\\myLoginForm\\myloginform\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|solutionrelative:myloginform\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|d:\\c#\\visual programming\\myloginform\\myloginform\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|solutionrelative:myloginform\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|d:\\c#\\visual programming\\myloginform\\myloginform\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|solutionrelative:myloginform\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|d:\\c#\\visual programming\\myloginform\\myloginform\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|solutionrelative:myloginform\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|d:\\c#\\visual programming\\myloginform\\myloginform\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|solutionrelative:myloginform\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|d:\\c#\\visual programming\\myloginform\\myloginform\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|solutionrelative:myloginform\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|D:\\C#\\Visual Programming\\myLoginForm\\myloginform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|solutionrelative:myloginform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|D:\\C#\\Visual Programming\\myLoginForm\\myloginform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|solutionrelative:myloginform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|D:\\C#\\Visual Programming\\myLoginForm\\myloginform\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|solutionrelative:myloginform\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|D:\\C#\\Visual Programming\\myLoginForm\\myloginform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|solutionrelative:myloginform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|D:\\C#\\Visual Programming\\myLoginForm\\myloginform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|solutionrelative:myloginform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|D:\\C#\\Visual Programming\\myLoginForm\\myloginform\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A45C5F-5628-49C1-A29E-83EDA74DFA3A}|myLoginForm\\myLoginForm.csproj|solutionrelative:myloginform\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\Form1.cs",
+              "RelativeDocumentMoniker": "myLoginForm\\Form1.cs",
+              "ToolTip": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\Form1.cs [Design]",
+              "RelativeToolTip": "myLoginForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:50:44.067Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\Form1.cs",
+              "RelativeDocumentMoniker": "myLoginForm\\Form1.cs",
+              "ToolTip": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\Form1.cs",
+              "RelativeToolTip": "myLoginForm\\Form1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADgvzkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T09:08:25.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbConnect.cs",
+              "DocumentMoniker": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\DbConnect.cs",
+              "RelativeDocumentMoniker": "myLoginForm\\DbConnect.cs",
+              "ToolTip": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\DbConnect.cs",
+              "RelativeToolTip": "myLoginForm\\DbConnect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T06:41:38.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\Form4.cs",
+              "RelativeDocumentMoniker": "myLoginForm\\Form4.cs",
+              "ToolTip": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\Form4.cs [Design]",
+              "RelativeToolTip": "myLoginForm\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T09:12:41.828Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\Form3.cs",
+              "RelativeDocumentMoniker": "myLoginForm\\Form3.cs",
+              "ToolTip": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\Form3.cs [Design]",
+              "RelativeToolTip": "myLoginForm\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T06:26:33.317Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\Form4.cs",
+              "RelativeDocumentMoniker": "myLoginForm\\Form4.cs",
+              "ToolTip": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\Form4.cs",
+              "RelativeToolTip": "myLoginForm\\Form4.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAvwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T10:51:43.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\Form3.cs",
+              "RelativeDocumentMoniker": "myLoginForm\\Form3.cs",
+              "ToolTip": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\Form3.cs",
+              "RelativeToolTip": "myLoginForm\\Form3.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADgvzwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T13:11:25.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\Operations.cs",
+              "RelativeDocumentMoniker": "myLoginForm\\Operations.cs",
+              "ToolTip": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\Operations.cs",
+              "RelativeToolTip": "myLoginForm\\Operations.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAowCMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T06:59:31.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\Form5.cs",
+              "RelativeDocumentMoniker": "myLoginForm\\Form5.cs",
+              "ToolTip": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\Form5.cs [Design]",
+              "RelativeToolTip": "myLoginForm\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T10:54:20.862Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\Form5.cs",
+              "RelativeDocumentMoniker": "myLoginForm\\Form5.cs",
+              "ToolTip": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\Form5.cs",
+              "RelativeToolTip": "myLoginForm\\Form5.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADgvxoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T10:56:52.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\Form2.cs",
+              "RelativeDocumentMoniker": "myLoginForm\\Form2.cs",
+              "ToolTip": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\Form2.cs",
+              "RelativeToolTip": "myLoginForm\\Form2.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAADgvzcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:39:14.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\Form2.cs",
+              "RelativeDocumentMoniker": "myLoginForm\\Form2.cs",
+              "ToolTip": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\Form2.cs [Design]",
+              "RelativeToolTip": "myLoginForm\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T06:12:31.173Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\User.cs",
+              "RelativeDocumentMoniker": "myLoginForm\\User.cs",
+              "ToolTip": "D:\\C#\\Visual Programming\\myLoginForm\\myLoginForm\\User.cs",
+              "RelativeToolTip": "myLoginForm\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:26:36.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
